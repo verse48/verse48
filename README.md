@@ -1,4 +1,4 @@
-[![MasterHead](https://mlfk3cv5yvnx.i.optimole.com/cb:bn-b.2fe21/w:auto/h:auto/q:mauto/f:best/https://www.ninjaone.com/wp-content/uploads/2024/07/N1-0921-Lua-Programming-Language-blog-image-1.png)
+[![MasterHead]([https://mlfk3cv5yvnx.i.optimole.com/cb:bn-b.2fe21/w:auto/h:auto/q:mauto/f:best/https://www.ninjaone.com/wp-content/uploads/2024/07/N1-0921-Lua-Programming-Language-blog-image-1.png](https://cdn.discordapp.com/attachments/1302743045762187346/1304927964441608365/eedf0011aac3db1e88b01dd91f96517c.jpg?ex=67312c5f&is=672fdadf&hm=d4466295c55b37db212ae1ad7425ea5e94b66c34baee5d37db223fb0cd9600c2&))
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
